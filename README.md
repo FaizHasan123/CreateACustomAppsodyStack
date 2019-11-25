@@ -1,2 +1,2 @@
-# CreateACustomAppsodyStack
-<a href="https://appsody.dev/docs">Appsody</a> 
+# Create A Custom Appsody Stack
+<a href="https://appsody.dev/docs">Appsody</a> is a project aimed at simplying the process of cloud-native development. It does this by presenting, do the developer, an application stack that conforms to the developer's organization's requirements. The developer can simply focus on writing code without worrying about the underlying implementation of the software components.
