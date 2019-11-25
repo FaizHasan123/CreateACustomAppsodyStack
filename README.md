@@ -4,4 +4,6 @@
 # Terminology
 Here are some basic terms that you should be familiar with while working with Appsody. This tutorial also assumes you are familiar with Docker and the concept of containers.
 
-> asdasd
+**Appsody stack**  
+
+An Appsody stack is a 
