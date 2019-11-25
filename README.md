@@ -6,4 +6,4 @@ Here are some basic terms that you should be familiar with while working with Ap
 
 **Appsody stack**  
 
-An Appsody stack is a 
+An Appsody stack is a technology stack that developers can use to build cloud-native applications  
